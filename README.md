@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mugisha Israel</h1>
-<h3 align="center">A passionate Data Scientist and AI enthusiast from Rwanda, currently using machine learning to solve real world problems.</h3>
-
-### Hi 👋, I'm Mugisha Israel! 👋
+### Hi there 👋, I'm Mugisha Israel!
 
 <!-- <img align="right" alt="Coding" width="300" height="250" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif"> -->
 <img align="right" height="250" width="300" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
@@ -18,7 +15,7 @@ self motivation and natural passion for continuous learning and self-development
  <!-- CONNECT WITH ME LINKS -->
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></a>📫 Connect with me</h3>
  
-  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itisWasp) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mugisha-israel-98a72721a/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mugishaisrael18@gmail.com) [![DevPost Badge](https://img.shields.io/badge/Dev-000000?style=for-the-badge&logo=Dev&logoColor=white)](https://dev.to/itisWasp)
+  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itisWasp) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mugisha-israel-98a72721a/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mugishaisrael18@gmail.com) 
 <hr>
  
  <!-- START NEW SECTION -->
