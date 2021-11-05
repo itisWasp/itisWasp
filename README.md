@@ -1,36 +1,139 @@
 <h1 align="center">Hi 👋, I'm Mugisha Israel</h1>
 <h3 align="center">A passionate Data Scientist and AI enthusiast from Rwanda, currently using machine learning to solve real world problems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itiswasp&label=Profile%20views&color=0e75b6&style=flat" alt="itiswasp" /> </p>
+### Hi 👋, I'm Mugisha Israel! 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itiswasp" alt="itiswasp" /></a> </p>
+<!-- <img align="right" alt="Coding" width="300" height="250" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif"> -->
+<img align="right" height="250" width="300" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 
-<p align="left"> <a href="https://twitter.com/itiswasp" target="blank"><img src="https://img.shields.io/twitter/follow/itiswasp?logo=twitter&style=for-the-badge" alt="itiswasp" /></a> </p>
+<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>🙋‍♂️ About me</h3>
+I'm a Data Scientist and an ✨AI enthusiast✨ with 
 
-- 🔭 I’m currently working on **Attention and Movement Analysis.**
+self motivation and natural passion for continuous learning and self-development.
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects and Open Projects.**
+<!-- <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects** -->
 
-- 🤝 I’m looking for help with **Data Science and Machine Learning Problems.**
 
-- 💬 Ask me about **Data Science, Machine Learning and Deep Learning.**
-
-- 📫 How to reach me **mugishaisrael18@gmail.com**
-
-- ⚡ Fun fact **One of my favorite things to do is work on a project with a team.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/itiswasp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itiswasp" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mugisha israel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mugisha israel" height="30" width="40" /></a>
-<a href="https://kaggle.com/mugisha israel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mugisha israel" height="30" width="40" /></a>
+<!-- START NEW SECTION -->
+ <!-- CONNECT WITH ME LINKS -->
+<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></a>📫 Connect with me</h3>
+ 
+  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itisWasp) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mugisha-israel-98a72721a/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mugishaisrael18@gmail.com) [![DevPost Badge](https://img.shields.io/badge/Dev-000000?style=for-the-badge&logo=Dev&logoColor=white)](https://dev.to/itisWasp)
+<hr>
+ 
+ <!-- START NEW SECTION -->
+<!-- <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#top-technologies"></a>🚀 My Tools And Technologies</h3>
+ 
+[![Python Badge](https://img.shields.io/badge/Python-35495E?style=for-the-badge&logo=Python&logoColor=4FC08D)](#) [![OpenCV Badge](https://img.shields.io/badge/OpenCV-35495E?style=for-the-badge&logo=OpenCV&logoColor=4FC08D)](#) [![Flask Badge](https://img.shields.io/badge/Flask-35495E?style=for-the-badge&logo=Flask&logoColor=4FC08D)](#)
+[![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)
+[![Swing Badge](https://img.shields.io/badge/-Swing-007396?style=for-the-badge&labelColor=black&logo=Swing&logoColor=007396)](#)
+[![Spring Badge](https://img.shields.io/badge/-Spring-007396?style=for-the-badge&labelColor=black&logo=Spring&logoColor=007396)](#)
+[![Maven Badge](https://img.shields.io/badge/-Maven-007396?style=for-the-badge&labelColor=black&logo=Maven&logoColor=007396)](#)
+[![Hibernate Badge](https://img.shields.io/badge/-Hibernate-007396?style=for-the-badge&labelColor=black&logo=Hibernate&logoColor=007396)](#)
+[![Apache Badge](https://img.shields.io/badge/-Apache-007396?style=for-the-badge&labelColor=black&logo=Apache&logoColor=007396)](#)
+[![PHP Badge](https://img.shields.io/badge/-PHP-A8B9CC?style=for-the-badge&labelColor=white&logo=PHP&logoColor=A8B9CC)](#)
+[![Ajax Badge](https://img.shields.io/badge/-Ajax-A8B9CC?style=for-the-badge&labelColor=white&logo=Ajax&logoColor=A8B9CC)](#)
+[![c Badge](https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&labelColor=white&logo=c&logoColor=A8B9CC)](#)
+[![c++ Badge](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&labelColor=white&logo=c&logoColor=00599C)](#) 
+[![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#) 
+[![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
+[![HTML Badge](https://img.shields.io/badge/HTML-43853D?style=for-the-badge&logo=HTML&logoColor=white)](#)
+[![CSS Badge](https://img.shields.io/badge/CSS-43853D?style=for-the-badge&logo=CSS&logoColor=white)](#) 
+[![VCode Badge](https://img.shields.io/badge/VCode-20232A?style=for-the-badge&logo=VCode&logoColor=61DAFB)](#) 
+[![Git Badge](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=Git&logoColor=61DAFB)](#) 
+[![MYSQL Badge](https://img.shields.io/badge/MYSQL-20232A?style=for-the-badge&logo=MYSQL&logoColor=61DAFB)](#) 
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=MongoDB&logoColor=61DAFB)](#) 
+[![GitHub Badge](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=GitHub&logoColor=61DAFB)](#) 
+[![Linux Badge](https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=Linux&logoColor=61DAFB)](#) 
+[![Windows Badge](https://img.shields.io/badge/Windows-20232A?style=for-the-badge&logo=Windows&logoColor=61DAFB)](#) 
+[![Workbench Badge](https://img.shields.io/badge/Workbench-20232A?style=for-the-badge&logo=Workbench&logoColor=61DAFB)](#) 
+[![Socket.io Badge](https://img.shields.io/badge/Socket.io-20232A?style=for-the-badge&logo=Socket.io&logoColor=61DAFB)](#) 
+[![npm Badge](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm&logoColor=61DAFB)](#) 
+[![JSON Badge](https://img.shields.io/badge/JSON-20232A?style=for-the-badge&logo=JSON&logoColor=61DAFB)](#) 
+[![Networking Badge](https://img.shields.io/badge/Networking-35495E?style=for-the-badge&logo=Networking&logoColor=4FC08D)](#)
+[![AI Badge](https://img.shields.io/badge/AI-35495E?style=for-the-badge&logo=AI&logoColor=4FC08D)](#)
+[![Robotics Badge](https://img.shields.io/badge/Robotics-35495E?style=for-the-badge&logo=Robotics&logoColor=4FC08D)](#)
+[![Arduino Badge](https://img.shields.io/badge/Arduino-35495E?style=for-the-badge&logo=Arduino&logoColor=4FC08D)](#)
+[![IOT Badge](https://img.shields.io/badge/IOT-35495E?style=for-the-badge&logo=IOT&logoColor=4FC08D)](#)
+[![Embedded-Systems Badge](https://img.shields.io/badge/Embedded-Systems-20232A?style=for-the-badge&logo=Embedded-Systems&logoColor=4FC08D)](#)
+[![ESP8266-Boards Badge](https://img.shields.io/badge/ESP8266-Boards-20232A?style=for-the-badge&logo=ESP8266-Boards&logoColor=4FC08D)](#)
+[![ATMEGA328-Chips Badge](https://img.shields.io/badge/ATMEGA328-Chips-20232A?style=for-the-badge&logo=ATMEGA328-Chips&logoColor=4FC08D)](#)
+[![Raspberry-Pi Badge](https://img.shields.io/badge/Raspberry-Pi-20232A?style=for-the-badge&logo=Raspberry-Pi&logoColor=4FC08D)](#)
+[![Routing Badge](https://img.shields.io/badge/-Routing-007396?style=for-the-badge&labelColor=black&logo=Routing&logoColor=007396)](#)
+[![CISCO Badge](https://img.shields.io/badge/-CISCO-007396?style=for-the-badge&labelColor=black&logo=CISCO&logoColor=007396)](#)
+[![VLANs Badge](https://img.shields.io/badge/-VLANs-007396?style=for-the-badge&labelColor=black&logo=VLANs&logoColor=007396)](#)
+[![Subnetting Badge](https://img.shields.io/badge/-Subnetting-007396?style=for-the-badge&labelColor=black&logo=Subnetting&logoColor=007396)](#)
+[![Internet Badge](https://img.shields.io/badge/-Internet-007396?style=for-the-badge&labelColor=black&logo=Internet&logoColor=007396)](#)
+[![VNC Badge](https://img.shields.io/badge/-VNC-007396?style=for-the-badge&labelColor=black&logo=VNC&logoColor=007396)](#)
+[![Keypad Badge](https://img.shields.io/badge/-Keypad-007396?style=for-the-badge&labelColor=black&logo=Keypad&logoColor=007396)](#)
+[![LCD Badge](https://img.shields.io/badge/-LCD-007396?style=for-the-badge&labelColor=black&logo=LCD&logoColor=007396)](#)
+[![Welding Badge](https://img.shields.io/badge/-Welding-A8B9CC?style=for-the-badge&labelColor=white&logo=Welding&logoColor=A8B9CC)](#)
+[![Electronics Badge](https://img.shields.io/badge/-Electronics-A8B9CC?style=for-the-badge&labelColor=white&logo=Electronics&logoColor=A8B9CC)](#)
+[![Sensors Badge](https://img.shields.io/badge/-Sensors-A8B9CC?style=for-the-badge&labelColor=white&logo=Sensors&logoColor=A8B9CC)](#)
+[![Motors Badge](https://img.shields.io/badge/-Motors-A8B9CC?style=for-the-badge&labelColor=white&logo=Motors&logoColor=A8B9CC)](#)
+[![RFID Badge](https://img.shields.io/badge/-RFID-A8B9CC?style=for-the-badge&labelColor=white&logo=RFID&logoColor=A8B9CC)](#)
+[![Scratch Badge](https://img.shields.io/badge/Scratch-35495E?style=for-the-badge&logo=Scratch&logoColor=4FC08D)](#)
+[![Blender Badge](https://img.shields.io/badge/Blender-35495E?style=for-the-badge&logo=Blender&logoColor=4FC08D)](#)
+[![Photoshop Badge](https://img.shields.io/badge/Photoshop-35495E?style=for-the-badge&logo=Photoshop&logoColor=4FC08D)](#)
+[![Krita Badge](https://img.shields.io/badge/Krita-35495E?style=for-the-badge&logo=Krita&logoColor=4FC08D)](#)
+[![Adobe Badge](https://img.shields.io/badge/Adobe-35495E?style=for-the-badge&logo=Adobe&logoColor=4FC08D)](#)
+[![Opentoons Badge](https://img.shields.io/badge/Opentoons-35495E?style=for-the-badge&logo=Opentoons&logoColor=4FC08D)](#)
+ <hr>
+ 
+  --> 
+<!-- START NEW SECTION -->
+<p align="center">
+  <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+  <h2 align="center">My Github Profile Trophy</h2>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=itisWasp&theme=radical&margin-w=40&margin-h=40)](https://github.com/itisWasp)
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=itiswasp&show_icons=true&locale=en&layout=compact" alt="itiswasp" /></p>
+<hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itiswasp&show_icons=true&locale=en" alt="itiswasp" /></p>
+<!-- START NEW SECTION -->
+<p align="center">
+ <h2 align="center">My Github Stats</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itiswasp&" alt="itiswasp" /></p>
+|My github statistics|My languages|Streaks|
+|-|-|-|
+|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=itisWasp&show_icons=true&theme=dark&hide_title=true)](https://github.com/itisWasp)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itisWasp&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/itisWasp)|![itisWasp](https://github-readme-streak-stats.herokuapp.com/?user=itisWasp&theme=dark)
+<hr>
+
+<!-- START NEW SECTION -->
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{itisWasp}/count.svg" /></p> 
+<br></div>
+
+
+<p align="center">
+<img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
+</p>
+<hr>
+
+<!-- START NEW SECTION -->
+<div align="center">
+ <br>
+ <p align="centre"><b> Here is a random joke that'll mark your day!</b></p>
+ 
+ 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+ 
+ 
+<details><summary align="center"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
+<br>
+</div>
+
+<!-- START NEW SECTION -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
+</p>
+
+
+<!-- GITHUB ACTIVITY GRAPH -->
+<!-- ![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=Cyebukayire&theme=react-dark) -->
+
+  </p>
