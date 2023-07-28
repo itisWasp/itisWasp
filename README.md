@@ -4,7 +4,7 @@
 <img align="right" height="250" width="300" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>🙋‍♂️ About me</h3>
-I'm a Data Scientist and an ✨AI enthusiast✨ with 
+I'm a Software Developer and an ✨AI enthusiast✨ with 
 
 self motivation and natural passion for continuous learning and self-development.
 
